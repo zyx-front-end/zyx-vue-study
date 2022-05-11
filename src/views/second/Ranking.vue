@@ -1,6 +1,6 @@
 <template>
     <div>
-        find
+        排行榜
     </div>
 </template>
 

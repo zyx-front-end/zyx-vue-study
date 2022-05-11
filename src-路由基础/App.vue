@@ -2,7 +2,7 @@
   <div>
     <div class="wrap">
       <!-- router-link最终会被渲染成a标签 -->
-      <router-link to="/">首页</router-link>
+      <router-link to="/home">首页</router-link>
       <router-link to="/find">发现</router-link>
       <router-link to="/part">part</router-link>
     </div>

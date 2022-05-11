@@ -1,6 +1,6 @@
 <template>
     <div>
-        home
+        排行榜
     </div>
 </template>
 
